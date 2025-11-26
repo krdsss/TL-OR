@@ -1,0 +1,11 @@
+DIMENSION: Number of points in the instance
+CAPACITY:  Truck capacity in kg
+NODE_COORD_SECTION: List of coordinates (x,y) for each point in the instance 
+DEMAND_SECTION: List of demands in kg for each point in the instance
+
+
+Additional notes: 
+- There is a single Depot point placed at point 1.      
+- We consider an Euclidean distance. 
+- Map units are Hectometres.
+
